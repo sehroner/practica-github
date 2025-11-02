@@ -1,2 +1,13 @@
-# practica-github
-Esto es una práctica para el primer tema de lenguaje de marcas y sistemas de gestión de la información, donde crearemos una estructura sencilla html.
+# Proyecto de Lenguaje de marcas - practica-github
+
+## Propósito
+Este repositorio se ha creado para practicar el uso de GitHub en la asignatura de Lenguaje de marcas
+
+## Descripción
+Aquí he subido un archivo HTML y he realizado varias pruebas con commits para entender cómo funciona
+
+## Autor
+Eliezer González - XALOC (ASIR)
+
+## Versión inicial
+Versión 1.0 - Octubre de 2025
